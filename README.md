@@ -1,1 +1,1 @@
-## Hola, mi nombre es *_Erick Joya_*
+## Hola, mi nombre es *Erick Joya*
