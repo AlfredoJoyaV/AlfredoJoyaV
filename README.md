@@ -1,4 +1,4 @@
-<h1 align="center">Hola, mi nombre es <b>Erick Joya</b>  <img src="https://res.cloudinary.com/daqhj5tzr/image/upload/v1748130360/Saludar_lckrzp.webp" width="38px"></h1>
+<h1 align="center">Hola, soy <b>Erick Joya</b>  <img src="https://res.cloudinary.com/daqhj5tzr/image/upload/v1748130360/Saludar_lckrzp.webp" width="38px"></h1>
 
 <P>Soy estudiante la carrera de Ing. en Desarrollo de Software.</P>
 <P>Tambien me encuentro crusando el bootcamp de Full Stack Junir en <img src="https://res.cloudinary.com/daqhj5tzr/image/upload/v1748127071/KODIGO_xmyjrm.png" width="100px"></P>
